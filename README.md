@@ -361,8 +361,8 @@ void exit_button_clicked();		//返回至上一界面
 
 <a href="https://star-history.com/#tt0x2/StuInfo_Manage_System&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xietao02/StuInfo_Manage_System&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xietao02/StuInfo_Manage_System&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xietao02/StuInfo_Manage_System&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tt0x2/StuInfo_Manage_System&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tt0x2/StuInfo_Manage_System&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tt0x2/StuInfo_Manage_System&type=Date" />
  </picture>
 </a>
