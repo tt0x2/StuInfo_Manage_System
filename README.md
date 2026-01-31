@@ -359,7 +359,7 @@ void exit_button_clicked();		//返回至上一界面
 
 # Star History
 
-<a href="https://star-history.com/#xietao02/StuInfo_Manage_System&Date">
+<a href="https://star-history.com/#tt0x2/StuInfo_Manage_System&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xietao02/StuInfo_Manage_System&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xietao02/StuInfo_Manage_System&type=Date" />
